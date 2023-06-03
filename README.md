@@ -41,20 +41,6 @@ Here are some of the technologies and tools I have experience with:
   ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-## Projects
-
-Here are some of the projects I have worked on:
-
-1. **Project Name**
-   - Description: Briefly describe the project and its purpose.
-   - Technologies used: List the technologies used in the project.
-   - GitHub repository: [Link to the GitHub repository](https://github.com/Sagittarius-py/project-name)
-
-2. **Project Name**
-   - Description: Briefly describe the project and its purpose.
-   - Technologies used: List the technologies used in the project.
-   - GitHub repository: [Link to the GitHub repository](https://github.com/Sagittarius-py/project-name)
-
 
 ## Get in Touch
 
