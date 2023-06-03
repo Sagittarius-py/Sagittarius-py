@@ -3,8 +3,6 @@
 
 # Sagittarius-py
 
-[![GitHub followers](https://img.shields.io/github/followers/Sagittarius-py?label=Follow&style=social)](https://github.com/Sagittarius-py)
-[![GitHub stars](https://img.shields.io/github/stars/Sagittarius-py?style=social)](https://github.com/Sagittarius-py)
 
 Welcome to my GitHub profile! Here you will find a collection of my projects and contributions. I am passionate about programming, open-source development, and learning new technologies. 
 
