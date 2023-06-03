@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you will find a collection of my projects and
 
 ## About Me
 
-I'm a dedicated web developer with a keen interest in JavaScript. I love building applications that solve real-world problems and bring value to users. My goal is to create clean, efficient, and maintainable code. I enjoy working on both backend and frontend development and am constantly expanding my skill set.
+I'm in progress of Computer Science Studies, web developer with a keen interest in JavaScript. I love building applications that solve real-world problems and bring value to users. My goal is to create clean, efficient, and maintainable code. I enjoy working on both backend and frontend development and am constantly expanding my skill set.
 
 
 
