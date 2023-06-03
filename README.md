@@ -42,12 +42,3 @@ Here are some of the technologies and tools I have experience with:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## Get in Touch
-
-I'm always open to collaboration and new opportunities. Feel free to reach out to me through the following channels:
-
-- GitHub: [@Sagittarius-py](https://github.com/Sagittarius-py)
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
-
-Thank you for visiting my profile. I look forward to connecting with you!
