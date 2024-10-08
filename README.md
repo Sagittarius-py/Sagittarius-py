@@ -1,5 +1,4 @@
-(https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-
+![0_FGD6BUzzZs1VJLuY](https://github.com/user-attachments/assets/f692b5e0-b98d-4458-acf5-d88d2c3832e8)
 
 # Sagittarius-py
 
