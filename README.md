@@ -3,12 +3,7 @@
 
 # ✋ Sagittarius-py
 
-
 Welcome to my GitHub profile! Here you will find a collection of my projects and contributions. I am passionate about programming, open-source development, and learning new technologies. 
-
-## 🚀 About Me
-
-I'm in progress of Computer Science Studies, web developer with a keen interest in JavaScript. I love building applications that solve real-world problems and bring value to users. My goal is to create clean, efficient, and maintainable code. I enjoy working on both backend and frontend development and am constantly expanding my skill set.
 
 ## 🌐 Social Media
 
@@ -19,6 +14,9 @@ Feel free to connect with me on social media:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](#)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](#)
 
+## 🚀 About Me
+
+I'm in progress of Computer Science Studies, web developer with a keen interest in JavaScript. I love building applications that solve real-world problems and bring value to users. My goal is to create clean, efficient, and maintainable code. I enjoy working on both backend and frontend development and am constantly expanding my skill set.
 
 ## 💻 Technologies & Tools
 
