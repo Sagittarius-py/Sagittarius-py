@@ -1,4 +1,5 @@
-![0_FGD6BUzzZs1VJLuY](https://github.com/user-attachments/assets/f692b5e0-b98d-4458-acf5-d88d2c3832e8)
+
+![5070f9e7af565d1d16a3edfd7f53cd1e](https://github.com/user-attachments/assets/1dfcd65b-3027-4916-bf80-893bd9f74165)
 
 # Sagittarius-py
 
