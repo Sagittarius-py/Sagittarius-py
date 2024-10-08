@@ -1,18 +1,18 @@
 
 ![5070f9e7af565d1d16a3edfd7f53cd1e](https://github.com/user-attachments/assets/1dfcd65b-3027-4916-bf80-893bd9f74165)
 
-# Sagittarius-py
+# ✋ Sagittarius-py
 
 
 Welcome to my GitHub profile! Here you will find a collection of my projects and contributions. I am passionate about programming, open-source development, and learning new technologies. 
 
-## About Me
+## 🚀 About Me
 
 I'm in progress of Computer Science Studies, web developer with a keen interest in JavaScript. I love building applications that solve real-world problems and bring value to users. My goal is to create clean, efficient, and maintainable code. I enjoy working on both backend and frontend development and am constantly expanding my skill set.
 
 
 
-## Technologies & Tools
+## 💻 Technologies & Tools
 
 Here are some of the technologies and tools I have experience with:
 
