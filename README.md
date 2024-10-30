@@ -46,7 +46,7 @@ Here are some of the technologies and tools I have experience with:
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## 🧠 Currently Learning
- ![React Native](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=reactNative&logoColor=black)
+ ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
 
