@@ -1,7 +1,7 @@
 
 ![5070f9e7af565d1d16a3edfd7f53cd1e](https://github.com/user-attachments/assets/1dfcd65b-3027-4916-bf80-893bd9f74165)
 
-# ✋ Sagittarius-py
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Sagittarius-py
 
 Welcome to my GitHub profile! Here you will find a collection of my projects and contributions. I am passionate about programming, open-source development, and learning new technologies. 
 
